@@ -1,0 +1,25 @@
+SMAP
+southindian_jsp.java
+JSP
+*S JSP
+*F
++ 0 southindian.jsp
+southindian.jsp
++ 1 DB_Connection.jsp
+DB_Connection.jsp
+*L
+1,7:56
+1#1,2:62
+4,14:65
+7#0,118:79
+124,8:197
+131,3:205
+134:208,3
+135:211
+136:212,3
+137,2:215,5
+139:225,3
+140,20:228
+160,6:249
+165,152:255
+*E

@@ -1,0 +1,23 @@
+SMAP
+admin_005freview_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_review.jsp
+admin_review.jsp
++ 1 DB_Connection.jsp
+DB_Connection.jsp
+*L
+1,7:56
+1#1,2:62
+4,14:65
+7#0,118:79
+124,6:197
+129,4:203
+133:207,5
+134:212,7
+135:219,3
+136,4:222
+141,6:228
+146,152:234
+*E
